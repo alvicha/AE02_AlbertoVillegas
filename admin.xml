@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<dades>
+    <url>jdbc:mysql://localhost:3306/books</url>
+    <usuari>admin</usuari>
+    <contrasenya>admin</contrasenya>
+</dades>
